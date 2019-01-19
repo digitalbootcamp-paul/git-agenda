@@ -1,4 +1,4 @@
-Git and GitHub Basics Course Outline
+# Git and GitHub Basics Course Outline
 
 ## Description:
 Git, undoubtedly the most popular version control system, is an essential skill for any developer, whether you’re working with a team or as an individual. Git’s powerful commands give your project unlimited ‘un-do’s’, let you experiment with alternative branches and allow you to collaborate with others without fear of overriding other’s work.
@@ -12,17 +12,19 @@ While no programming or development knowledge is required, students shouldn’t 
 
 ### What is Git and who should use it? 
 * Why is Git great for programming?
-* Everyday uses for Git * Git and GitHub
+* Everyday uses for Git 
+* Git and GitHub
 ### Version control basics
 * Some basic terminology
-* Looking at the history of an existing project * Checking out and comparing versions
+* Looking at the history of an existing project 
+* Checking out and comparing versions
 ### Installing and configuring
 * Terminal command basics for configuring and controlling Git 
 * Using Git help
 
 ### Basic Git workflow
 * Creating a repo
-T* he basic flow: the basic flow: make changes, add changes, commit changes
+* The basic flow: the basic flow: make changes, add changes, commit changes
 * The staging area and the working directory
 * Understanding where Git files are stored 
 * Committing
