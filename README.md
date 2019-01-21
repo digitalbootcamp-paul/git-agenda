@@ -10,6 +10,8 @@ In addition to learning how to organize and track your project’s history, you�
 ## Prerequisites:
 While no programming or development knowledge is required, students shouldn’t be afraid to tackle some code-based examples. Most of Git’s power comes from using terminal commands, so be ready to leave the comfort of your normal user interface.
 
+### the whole slide deck: [Ascend-Git-Github-Basics.pdf](http://paulmccann.com/git/Ascend-Git-Github-Basics.pdf)
+
 ## Topics covered
 
 ### What is Git and who should use it? 
